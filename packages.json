@@ -8,6 +8,177 @@
       "description": "Instantly detects suspicious behavior and shuts it down before it impacts gameplay.",
       "type": "unitypackage",
       "downloadUrl": "https://cdn.discordapp.com/attachments/1494222368258785280/1496631365087793393/BasicGuard_V1.0.0_2.unitypackage?ex=69ea9613&is=69e94493&hm=a44649be49492df1fa436e7ada8ce37034f1f108481f25afcec886c43f18fe69&"
+    },
+    {
+      "id": "Movement-Guard",
+      "name": "MovementGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Prevents unnatural movement speeds, teleporting, and physics abuse.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Server-Validator",
+      "name": "ServerValidator",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Verifies important player actions through the server to stop client-side exploits.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Anti-Tamper",
+      "name": "AntiTamper",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Helps block modified clients, injected code, and unauthorized game changes.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Staff-Hooks",
+      "name": "StaffHooks",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Gives staff tools to freeze, kick, monitor, and control problem players in real time.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Behavior-Watch",
+      "name": "BehaviorWatch",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Tracks player behavior patterns to catch suspicious activity that tries to stay hidden.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Exploit-Blocker",
+      "name": "ExploitBlocker",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Blocks common exploit methods before they can damage the lobby or gameplay.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Inventory-Guard",
+      "name": "InventoryGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Validates cosmetics and inventory data to prevent spoofed, duplicated, or fake items.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Network-Verify",
+      "name": "NetworkVerify",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Checks networked player data to make sure synced stats cannot be easily faked.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Voice-Guard",
+      "name": "VoiceGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Helps detect mic spam, voice abuse, and suspicious audio behavior.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Access-Watch",
+      "name": "AccessWatch",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Flags players attempting to access restricted tools, menus, or admin-only systems.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Speed-Guard",
+      "name": "SpeedGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Stops speed hacks by keeping movement inside fair gameplay limits.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Session-Guard",
+      "name": "SessionGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Continuously checks player state during a session to catch mid-game tampering.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "RPC-Guard",
+      "name": "RPCGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Blocks fake, invalid, or unauthorized network calls from running in-game.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Account-Watch",
+      "name": "AccountWatch",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Monitors account behavior for suspicious patterns, abuse, or repeated violations.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Map-Guard",
+      "name": "MapGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Prevents players from clipping through maps, bypassing barriers, or breaking areas.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Auto-Flagger",
+      "name": "AutoFlagger",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Automatically flags suspicious players for review before they ruin the damn lobby.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Client-Check",
+      "name": "ClientCheck",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Checks that players are using valid and expected game files.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Dynamic-Guard",
+      "name": "DynamicGuard",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Adapts protection rules over time to handle new exploit methods.",
+      "type": "unitypackage",
+      "downloadUrl": ""
+    },
+    {
+      "id": "Fair-Play",
+      "name": "FairPlay",
+      "author": "Vine Studio",
+      "version": "1.0.0",
+      "description": "Protects matches by helping remove cheaters and keeping gameplay fair.",
+      "type": "unitypackage",
+      "downloadUrl": ""
     }
   ]
 }
